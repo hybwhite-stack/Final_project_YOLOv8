@@ -1,0 +1,5 @@
+path: D:/pythonProject/graduationProject/data  # 建议使用正斜杠
+train: images/train                # 实际路径应为 D:/pythonProject/bishe/data/images/train
+val: images/val                    # 实际路径应为 D:/pythonProject/bishe/data/images/val
+nc: 2
+names: ['bolt','nut']
